@@ -6,6 +6,7 @@ desctiption: "Bored of the same old website designs? Avocado jekyll theme presen
 ---
 
 ![image](/assets/images/about/01.jpg)
+![Image]({{"/assets/images/about/01.jpg"| relative_url}})
 
 ### 에듀테크 표준화(IMS Korea) 포럼
 
