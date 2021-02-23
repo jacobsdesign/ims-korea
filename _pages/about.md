@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 desctiption: "Bored of the same old website designs? Avocado jekyll theme presents a unique way to show off your skills on the web. Avocado is a bootstrap based, clean, minimal Jekyll theme."
 ---
-<img src='{{ "/assets/images/about/1.jpg" | relative_url }}'>
+
+![Image](/assets/images/about/1.jpg)
 
 
 ### 에듀테크 표준화(IMS Korea) 포럼
